@@ -16,8 +16,6 @@ Atualmente estou estudando **Linguagem C**, aprofundando meus conhecimentos em a
 
 <img align="center" alt="Linux" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 
-<img align="center" alt="Arch Linux" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg">
-
 <img align="center" alt="Neovim" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg">
 
 <img align="center" alt="VS Code" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
