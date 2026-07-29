@@ -1,4 +1,4 @@
-# Opa, eu me chamo Artur
+# Opa, eu me chamo Arthur
 
 ### 💻 Desenvolvedor C • Entusiasta de Programação e Linux
 
@@ -43,8 +43,8 @@ Atualmente estou estudando **Linguagem C**, aprofundando meus conhecimentos em a
 
 <div align="center">
 
-> *"Programs must be written for people to read, and only incidentally for machines to execute."*
+> *"Talk is cheap. Show me the code."*
 
-**— Harold Abelson**
+**— Linus torvalds**
 
 </div>
