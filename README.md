@@ -1,6 +1,6 @@
 # Opa, eu me chamo Arthur
 
-### 💻 Desenvolvedor C • Entusiasta de Programação e Linux
+### 💻 Desenvolvedor iniciante C • Entusiasta de Programação e Linux
 
 Atualmente estou estudando **Linguagem C**, aprofundando meus conhecimentos em algoritmos, estruturas de dados, programação de baixo nível e sistemas.
 
