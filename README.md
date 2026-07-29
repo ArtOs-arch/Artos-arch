@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Artur
+# Opa, eu me chamo Artur
 
 ### 💻 Desenvolvedor C • Entusiasta de Programação e Linux
 
@@ -26,7 +26,7 @@ Atualmente estou estudando **Linguagem C**, aprofundando meus conhecimentos em a
 
 ---
 
-## 📚 Atualmente
+## Atualmente
 
 - 📖 Estudando Linguagem C
 - 🖥️ Aprendendo Estruturas de Dados
@@ -35,23 +35,9 @@ Atualmente estou estudando **Linguagem C**, aprofundando meus conhecimentos em a
 
 ---
 
-## 📂 Repositórios em destaque
+## Repositórios em destaque
 
 - ⭐ Little Roguelike *(em desenvolvimento)*
-- 📚 Estudos em C
-- 🐧 Configurações do Arch Linux
-
----
-
-## 📫 Contato
-
-<div>
-
-<a href="https://github.com/ArtOs-arch">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
 
 ---
 
